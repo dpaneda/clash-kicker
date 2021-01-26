@@ -13,6 +13,7 @@ kind_mapper = {
     'challenge': 'other',
     'riverRacePvP': 'clan',
     'riverRaceDuel': 'clan',
+    'riverRaceDuelColosseum': 'clan',
     'boatBattle': 'boat' # I think this battles are attacks to our boat
 }
 
